@@ -1,1 +1,1 @@
-# SprinBoooAngularMySql
+# SpringBootAngularMySql
